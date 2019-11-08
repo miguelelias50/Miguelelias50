@@ -1,0 +1,17 @@
+
+html, body {
+  background-color: #73f068;
+  margin: 0;
+  padding: 0;
+}
+button { 
+  margin-left: 1%;
+  background-color: #457c3a;
+  border: none;
+  border-width: 0;
+  color: #00f729;
+  border-radius: 5%;
+}
+close {
+  margin-left: 1%;
+}
